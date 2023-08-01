@@ -1,0 +1,37 @@
+.table {
+  margin-top: 100px;
+  width: 90%;
+  margin-left: 60px;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.btn-edit {
+  margin: 0 5px 0 5px;
+}
+
+.btn-cancel {
+  margin: 0 5px 0 5px;
+}
+
+.meal-nr {
+  margin-right: 1000px;
+  margin-bottom: -70px;
+}
+
+.container {
+  width: 210px;
+  overflow-y: scroll;
+  /* border-style: outset; */
+  max-height: 150px;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.search-bar {
+  border-style: groove;
+  position: sticky;
+  top: 0;
+}
+
+.container.date-container {
+  font-size: medium;
+}

@@ -1,0 +1,23 @@
+.home-card p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home-card {
+  width: 80%;
+  background: rgba(255, 255, 255, 0.8);
+  /* margin-left: 10%; */
+}
+
+.home-card img {
+  width: 20vh;
+  margin-top: 2vh;
+  margin-left: 5vh;
+}
+
+@media (min-width: 1289px) {
+  .home-card img {
+    width: 20vh;
+    margin-top: 2vh;
+    margin-left: 180px;
+  }
+}

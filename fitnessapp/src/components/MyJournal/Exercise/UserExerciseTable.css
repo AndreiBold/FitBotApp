@@ -1,0 +1,34 @@
+.table {
+  margin-top: 100px;
+  width: 90%;
+  margin-left: 60px;
+}
+
+.btn-edit {
+  margin: 0 5px 0 5px;
+}
+
+.btn-cancel {
+  margin: 0 5px 0 5px;
+}
+
+.workout-nr {
+  margin-right: 1000px;
+  margin-bottom: -70px;
+}
+
+.container {
+  width: 210px;
+  overflow-y: scroll;
+  max-height: 150px;
+}
+
+.search-bar {
+  border-style: groove;
+  position: sticky;
+  top: 0;
+}
+
+.container.date-container {
+  font-size: medium;
+}

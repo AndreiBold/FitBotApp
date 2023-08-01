@@ -1,0 +1,15 @@
+.caloric-container {
+  background: rgba(255, 255, 255, 0.8);
+  width: 400px;
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
+
+@media (max-width: 680px) {
+  .caloric-container {
+    background: rgba(255, 255, 255, 0.8);
+    width: 200px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+  }
+}

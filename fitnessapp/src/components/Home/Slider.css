@@ -1,0 +1,27 @@
+.carousel-caption {
+  background: rgba(255, 255, 255, 0.8);
+  width: 50%;
+  margin-left: 130px;
+  height: 120px;
+  /* height: 110px;
+  margin-left: 170px;
+  margin-bottom: 15px; */
+}
+
+.carousel-caption p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.carousel {
+  background-color: plum;
+  /* width: 60%;
+  margin-left: 20%; */
+}
+
+/* img {
+  opacity: 0.6;
+} */
+
+.carousel-img {
+  opacity: 0.7;
+}

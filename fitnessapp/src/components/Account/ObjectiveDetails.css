@@ -1,0 +1,8 @@
+.pi-ban:before {
+  visibility: hidden;
+}
+
+.goal {
+  margin-right: 50px;
+  margin-left: -160px;
+}

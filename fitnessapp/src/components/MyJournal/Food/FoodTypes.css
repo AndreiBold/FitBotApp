@@ -1,0 +1,34 @@
+.foodTypes > button {
+  background-color: transparent;
+  border-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+  color: #a3a3a3;
+  outline: none;
+}
+
+.foodTypes > button > span {
+  margin-top: 5px;
+}
+
+.foodTypes {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.foodTypes > button:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.foods {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

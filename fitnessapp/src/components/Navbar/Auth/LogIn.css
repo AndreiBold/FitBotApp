@@ -1,0 +1,14 @@
+.forgotText {
+  display: block;
+  font-size: 13px;
+  text-align: left;
+}
+
+.forgotText:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* body {
+  padding-bottom: 100vh;
+} */

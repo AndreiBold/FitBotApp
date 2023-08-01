@@ -1,0 +1,12 @@
+.container {
+  width: 210px;
+  overflow-y: scroll;
+  max-height: 150px;
+  margin-top: 20px;
+}
+
+.search-bar {
+  border-style: groove;
+  position: sticky;
+  top: 0;
+}

@@ -1,0 +1,17 @@
+.foodie {
+  width: 300px;
+  margin-left: 800px;
+  margin-top: 20px;
+  height: 150px;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+@media (max-width: 1288px) {
+  .foodie {
+    width: 300px;
+    margin-left: 490px;
+    margin-top: 20px;
+    height: 150px;
+    background: rgba(255, 255, 255, 0.8);
+  }
+}
