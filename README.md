@@ -1,13 +1,1 @@
-# Academia de Studii Bucuresti, Facultatea de Cibernetica, Statistica si Informatica Economica
-
-# Programul de licenta Informatica Economica
-
-# Lucrare de Licenta
-
-# Tema proiect: Asistent conversational in fitness
-
-# Coordonator stiintific: Lect. univ. Dr. TOMA Andrei
-
-# Student absolvent: BOLD Andrei Catalin
-
-# Bucuresti, 2020
+# Full-stack app for helping users tracking their goals, macros and workouts - having a Chatbot as their Personal Trainer
